@@ -1,0 +1,8 @@
+name: LightTeleport
+version: '${project.version}'
+main: zeit.anschluss.lightteleport.LightTeleport
+api-version: 1.19
+prefix: LiteTP
+softdepend: [ ]
+authors: [ Anschluss_zeit ]
+description: A Teleport Plugin
